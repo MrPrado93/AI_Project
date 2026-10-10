@@ -1,8 +1,10 @@
 
 # AI_Project: Sistema de recomendación con GitHub Copilot
 
-**Alumno:** Luis Prado
+**Alumno:** Luis 
+
 **Institución:** INACAP
+
 **Actividad:** Actividad formativa – GitHub Copilot
 
 ## Descripción
@@ -68,4 +70,4 @@ Agregué los archivos, hice commit y los subí al repositorio remoto con:
 GitHub Copilot permitió generar rápidamente un código funcional a partir de una
 descripción en lenguaje natural, lo que muestra cómo la IA se está integrando en
 las herramientas de desarrollo. Aun así, es importante revisar y entender el
-código generado antes de usarlo.
+código generado antes de usarlo.git add .
