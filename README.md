@@ -63,7 +63,7 @@ Agregué los archivos, hice commit y los subí al repositorio remoto con:
     git add .
     git commit -m "Add recommendation system example"
     git push
-
+![Subida de cambios a GitHub](capturas/paso8.png)
 ## Conclusión
 GitHub Copilot permitió generar rápidamente un código funcional a partir de una
 descripción en lenguaje natural, lo que muestra cómo la IA se está integrando en
