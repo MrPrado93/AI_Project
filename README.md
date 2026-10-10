@@ -1,7 +1,7 @@
 
 # AI_Project: Sistema de recomendación con GitHub Copilot
 
-**Alumno:** Luis 
+**Alumno:** Luis Alberto Prado Quispe
 
 **Institución:** INACAP
 
